@@ -1,0 +1,16 @@
+Package: paternity
+Type: Package
+Title: Paternity tests using SNPs
+Version: 1.0
+Date: 2013-05-15
+Author: Umesh Rosyara 
+Maintainer: Umesh Rosyara <rosyaraur@gmail.com>
+Description: The package include function to calculate composite paterity index for paternity testing 
+License: GPL (>= 2)
+Repository: R-Forge
+Repository/R-Forge/Project: familyassocqt
+Repository/R-Forge/Revision: 11
+Repository/R-Forge/DateTimeStamp: 2014-03-13 12:49:00
+Date/Publication: 2014-03-13 12:49:00
+Packaged: 2014-03-13 15:16:04 UTC; rforge
+Depends: R (>= 2.10)
